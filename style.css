@@ -1,0 +1,21 @@
+/* Ändra bakgrunden på hela sidan och byt till ett snyggare typsnitt */
+body {
+    background-color: #0b265f;
+    font-family: Arial, sans-serif;
+    color: #807aa78c;
+    padding: 20px;
+}
+
+/* Ge huvudrubriken en specifik färg */
+h1 {
+    color: #9aafb685;
+}
+
+/* Gör texten i stycket lite större */
+p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+a  {
+    color: rgb(244, 247, 248);
+}
